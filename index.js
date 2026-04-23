@@ -15,3 +15,12 @@ const resta = () => {
     console.log(restaV)
 }
 
+const multiplicacion = () => {
+    const a = 4;
+    const b = 5; 
+
+    let multiplicacionV = a - b;
+    console.log(multiplicacionV)
+}
+
+
