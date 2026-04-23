@@ -14,3 +14,4 @@ const resta = () => {
     let restaV = a - b;
     console.log(restaV)
 }
+
