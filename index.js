@@ -15,3 +15,11 @@ const resta = () => {
     console.log(restaV)
 }
 
+const division = () => {
+    const a = 4;
+    const b = 5; 
+
+    let divisionV = a / b;
+    console.log(divisionV)
+}
+
