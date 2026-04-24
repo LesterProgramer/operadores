@@ -14,3 +14,22 @@ const resta = () => {
     let restaV = a - b;
     console.log(restaV)
 }
+
+const multiplicacion = () => {
+    const a = 4;
+    const b = 5; 
+
+    let multiplicacionV = a - b;
+    console.log(multiplicacionV)
+}
+
+
+const division = () => {
+    const a = 4;
+    const b = 5; 
+
+    let divisionV = a / b;
+    console.log(divisionV)
+}
+
+console.log("Hola ")
