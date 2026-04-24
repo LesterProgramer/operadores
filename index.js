@@ -15,6 +15,7 @@ const resta = () => {
     console.log(restaV)
 }
 
+<<<<<<< HEAD
 const multiplicacion = () => {
     const a = 4;
     const b = 5; 
@@ -24,3 +25,13 @@ const multiplicacion = () => {
 }
 
 
+=======
+const division = () => {
+    const a = 4;
+    const b = 5; 
+
+    let divisionV = a / b;
+    console.log(divisionV)
+}
+
+>>>>>>> feature/Divicion
